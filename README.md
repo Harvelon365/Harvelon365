@@ -58,11 +58,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width=40 height=40/>
 </p>
 
+---
 
+### Events (newest first)
 
+#### Advent of Code 2024 - [Repo](https://github.com/Harvelon365/AoC24)
+Christmas themed coding challenges released one day at a time in the lead up to xmas day
 
+#### HackNotts24 - [Repo](https://github.com/Harvelon365/HTM1)
+Hackathon held by the University of Nottingham HackSoc held over 24 hours
 
-
-
-
+#### Nottingham Uni Freshers Programming Competition 2024 - [Results](https://open.kattis.com/contests/t8fjxg/standings)
+Challenge-based programming competition held between students in freshers week
 
