@@ -1,5 +1,5 @@
 <h1 align="center">Harvey Tucker</h1>
-<h3 align="center">BSc Computer Science student - University of Nottingham</h3>
+<h3 align="center">MSci Computer Science student - University of Nottingham</h3>
 
 #### Website - [harveytucker.com](https://www.harveytucker.com/)
 
