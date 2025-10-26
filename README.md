@@ -3,7 +3,7 @@
 
 #### Website - [harveytucker.com](https://www.harveytucker.com/)
 
-#### Most Recent Project - [HTM1 - HackNotts24](https://github.com/Harvelon365/HTM1)
+#### Most Recent Project - [NYT Wizard - HackNotts25](https://github.com/jacob-halogen/nyt-wizard)
 
 #### Contact Me - [LinkedIn](www.linkedin.com/in/harvey-tucker)
 
@@ -62,11 +62,14 @@
 
 ### Events (newest first)
 
+#### HackNotts25 - [Repo](https://github.com/jacob-halogen/nyt-wizard)
+A solver for most New York Times games that runs as a browser extension
+
 #### Advent of Code 2024 - [Repo](https://github.com/Harvelon365/AoC24)
 Christmas themed coding challenges released one day at a time in the lead up to xmas day
 
 #### HackNotts24 - [Repo](https://github.com/Harvelon365/HTM1)
-Hackathon held by the University of Nottingham HackSoc held over 24 hours
+An esoteric programming language designed to look and (mostly) function as HTML
 
 #### Nottingham Uni Freshers Programming Competition 2024 - [Results](https://open.kattis.com/contests/t8fjxg/standings)
 Challenge-based programming competition held between students in freshers week
